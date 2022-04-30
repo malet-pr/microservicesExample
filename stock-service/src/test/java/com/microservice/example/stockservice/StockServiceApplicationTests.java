@@ -1,10 +1,10 @@
-package com.microservice.example.productservice;
+package com.microservice.example.stockservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class InventoryServiceApplicationTests {
+class StockServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
