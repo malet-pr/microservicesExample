@@ -1,7 +1,0 @@
-client.prop1: client property one
-
-spring:
-  jp:
-    hibernate.ddl-auto: create-delete
-    show-sql: true
-    generate-ddl: true
